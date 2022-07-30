@@ -1,5 +1,5 @@
-# Web Design Landing Page
-A Web Design Landing Page designed using pure Html and Css.
+# Digital Marketing Landing Page
+A Digital Marketing Landing Page designed using pure Html and Css.
 
 ## Concepts and Learnings
 
@@ -15,7 +15,7 @@ A Web Design Landing Page designed using pure Html and Css.
 
 ## Time Taken
 
-It took me 3.5 Hours to design this Web Design Landing Page  using Html and Css.
+It took me 3.5 Hours to design this Digital Marketing Landing Page  using Html and Css.
 
 ## Live
 
